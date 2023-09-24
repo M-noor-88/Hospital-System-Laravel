@@ -1,0 +1,17 @@
+{
+  "public/css/app.css": {
+    "file": "build/assets/app.css",
+    "isEntry": true,
+    "src": "public/build/assets/css/app.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-88591170.css",
+    "isEntry": true,
+    "src": "public/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
